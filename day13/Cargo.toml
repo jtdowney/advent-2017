@@ -1,0 +1,8 @@
+[package]
+name = "day13"
+version = "0.1.0"
+authors = ["John Downey <jdowney@gmail.com>"]
+
+[dependencies]
+error-chain = "*"
+lazy_static = "*"
